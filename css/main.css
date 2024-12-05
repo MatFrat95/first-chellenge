@@ -28,13 +28,13 @@ img {
   width: 100%;
   max-width: 320px;
   padding: 1em;
-  border-radius: 15px;
+  border-radius: 20px;
   background-color: #fff;
   box-shadow: 10px 10px 15px hsla(216, 15%, 48%, 0.1);
 }
 
 .card__img {
-  border-radius: 15px;
+  border-radius: 20px;
 }
 
 .card__text,
